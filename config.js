@@ -7,15 +7,15 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = "2348089782988"
+global.botnumber = "2348111637463"
 // You can add your number to control the bot or if someone asks for your number from the bot
 global.owner = [
-  ['2348089782988', 'Alex', true],
+  ['2348111637463', 'Alex', true],
   
 ];
 
-global.suittag = ['2348089782988'];
-global.prems = ['212670941551'];
+global.suittag = ['2348111637463'];
+global.prems = ['2348111637463'];
 
 global.packname = 'JITOSSA';
 global.author = '';
@@ -52,7 +52,7 @@ global.gt = 'MACKSYN';
 global.mysticbot = 'MACKSYN';
 global.md = 'https://instagram.com/ovmar_1';
 global.mysticbot = 'https://instagram.com/ovmar_1';
-global.nomorown = '2348089782988';
+global.nomorown = '2348111637463';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
