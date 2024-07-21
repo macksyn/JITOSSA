@@ -7,25 +7,25 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
-//يمكنك إضافة رقمك للتحكم في البوت أو إن طلب شخص رقمك من البوت
+global.botnumber = "2348089782988"
+// You can add your number to control the bot or if someone asks for your number from the bot
 global.owner = [
-  ['212670941551', 'Omar', true],
+  ['2348089782988', 'Alex', true],
   
 ];
 
-global.suittag = ['212670941551'];
+global.suittag = ['2348089782988'];
 global.prems = ['212670941551'];
 
 global.packname = 'JITOSSA';
 global.author = '';
 global.wm = 'OMAR';
-global.titulowm = 'JITOSSA';
-global.titulowm2 = `JITOSSA`
-global.igfg = 'JITOSSA';
-global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *متابعة للمطور في إنستجرام* \n*_instagram.com/ovmar_1_*';
-global.waitt = '> سوف أجيب عن سؤالك بعد قليل ...';
-global.waittt = '> سوف يتم رسم صورتك بعد قليل ...';
+global.titulowm = 'MACKSYN';
+global.titulowm2 = `MACKSYN`
+global.igfg = 'MACKSYN';
+global.wait = '> _Your request is being processed..._\n\n *متابعة للمطور في إنستجرام* \n*_instagram.com/ovmar_1_*';
+global.waitt = '> I will answer your question shortly...';
+global.waittt = '> Your picture will be drawn shortly...';
 global.rwait = '⏳';
 global.done = '✅';
 
@@ -48,11 +48,11 @@ global.año = d.toLocaleDateString('en', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nJITOSSA`;
-global.gt = 'JITOSSA';
-global.mysticbot = 'JITOSSA';
+global.gt = 'MACKSYN';
+global.mysticbot = 'MACKSYN';
 global.md = 'https://instagram.com/ovmar_1';
 global.mysticbot = 'https://instagram.com/ovmar_1';
-global.nomorown = '212670941551';
+global.nomorown = '2348089782988';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
@@ -67,8 +67,8 @@ global.htki = '*⭑•̩̩͙⊱•••• ☪*';
 global.htka = '*☪ ••••̩̩͙⊰•⭑*';
 global.comienzo = '• • ◕◕════';
 global.fin = '════◕◕ • •';
-global.botdate = `*[ 📅 ] Fecha:*  ${moment.tz('Africa/Casablanca').format('DD/MM/YY')}`;
-global.bottime = `*[ ⏳ ] Hora:* ${moment.tz('Africa/Casablanca').format('HH:mm:ss')}`;
+global.botdate = `*[ 📅 ] Fecha:*  ${moment.tz('Africa/Lagos').format('DD/MM/YY')}`;
+global.bottime = `*[ ⏳ ] Hora:* ${moment.tz('Africa/Lagos').format('HH:mm:ss')}`;
 global.fgif = {key: {participant: '0@s.whatsapp.net'}, message: {'videoMessage': {'title': wm, 'h': `Hmm`, 'seconds': '999999999', 'gifPlayback': 'true', 'caption': bottime, 'jpegThumbnail': fs.readFileSync('./Menu.png')}}};
 global.multiplier = 99;
 global.flaaa = [
